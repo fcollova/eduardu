@@ -2,4 +2,4 @@ extends layout
 
 block content
   h1 EduArdo
-  img(src = '/img/mc.jpg', height=30,weight=30)
+  img(src = '/img/mc_s.jpg', height=300,weight=300)
