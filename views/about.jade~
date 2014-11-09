@@ -1,0 +1,5 @@
+extends layout
+
+block content
+  h1 EduArdo
+  img(src = '/img/mc.jpg', height=30,weight=30)

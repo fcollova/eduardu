@@ -2,5 +2,5 @@ extends layout
  
 block content
   h1 If you need more nformation please contact:
-  h2 eduardu.info @ gmail.com
+  h2 eduardo.info @ gmail.com
 

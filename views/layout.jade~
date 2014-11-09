@@ -9,7 +9,7 @@ html
       nav
         ul
           li
-            img(src = '/img/eduardu_s.png')
+            img(src = '/img/eduardu_s.png',heigh:5,width:5)
           li 
             a(href="/") Home
           li 
